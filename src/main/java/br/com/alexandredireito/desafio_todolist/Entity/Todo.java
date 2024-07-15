@@ -1,4 +1,4 @@
-package br.com.alexandredireito.desafio_todolist.Entity;
+package br.com.alexandredireito.desafio_todolist.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
